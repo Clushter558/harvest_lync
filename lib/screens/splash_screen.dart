@@ -61,7 +61,7 @@ class _SplashScreenState extends State<SplashScreen> {
             AnimatedTextKit(
               animatedTexts: [
                 ColorizeAnimatedText(
-                  'MarketLync',
+                  'HarvestLync',
                   textStyle: colorizeTextStyle,
                   colors: colorizeColors,
 

@@ -24,7 +24,7 @@ class LoginScreen extends StatelessWidget {
               child: Column(
                 children: [
                   Image.asset('assets/images/logo.png',height: 300,),
-                  Text('MarketLync',style: TextStyle(
+                  Text('HarvestLync',style: TextStyle(
                     fontFamily: 'KGPP',
                     fontSize: 40,
                     color: myColor2,
